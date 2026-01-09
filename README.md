@@ -1,8 +1,8 @@
-#Object Detection Testing using custom CNN
+# Object Detection Testing using custom CNN
 
 Purpose is to test "tiling" subimages and feed them into the detector rather than letting the images be compressed to fit the 640x640 thereby losing resolution of the subjects
 
-#*Test Image and Outcomes*
+# *Test Image and Outcomes*
 
 **INPUT IMAGE**
 ![1](https://github.com/user-attachments/assets/f98b5540-1cea-4f52-b3a9-11bb734c0f95)
